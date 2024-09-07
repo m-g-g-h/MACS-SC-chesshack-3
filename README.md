@@ -2,6 +2,13 @@
 
 This is a repo for the USYD Maths & Computer Science society team for Strong compute's [chess hackathon 3](https://github.com/StrongResearch/chess-hackathon-3/tree/main).
 
+## The Team
+|Name|Username|Email|
+|--|--|--|
+| Matt Gulliver | m-g-g-h | mattg.00@proton.me |
+| Amelia Xie | ax-72 | ameliaxie1@gmail.com | 
+| Michael Chang | ming2mhc@gmail.com | Binyooo |
+
 Our model is a slightly modified version of the provided ChessGPT model, trained for a 10 hour burst on an array of 48 GPUs.
 
 To demo the model:
