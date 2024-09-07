@@ -7,7 +7,7 @@ This is a repo for the USYD Maths & Computer Science society team for Strong com
 |--|--|--|
 | Matt Gulliver | m-g-g-h | mattg.00@proton.me |
 | Amelia Xie | ax-72 | ameliaxie1@gmail.com | 
-| Michael Chang | ming2mhc@gmail.com | Binyooo |
+| Michael Chang | Binyooo | ming2mhc@gmail.com |
 
 Our model is a slightly modified version of the provided ChessGPT model, trained for a 10 hour burst on an array of 48 GPUs.
 
